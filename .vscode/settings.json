@@ -1,6 +1,8 @@
 {
     "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
-    "editor.inlineSuggest.enabled": false,
+
+    "editor.inlineSuggest.enabled": true,
+
     "github.copilot.enable": {
         "*": false,
         "plaintext": false,
